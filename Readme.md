@@ -6,7 +6,7 @@ I'm a recent B.Tech graduate in Computer Science and Biosciences from IIIT Delhi
 
 ## 💼 Current Focus:
 - **Research @ IIITD**:
-  - ML-based cryptanalysis & covert data transmission in networked environments
+  - ML-based cryptanalysis [Dr. Ravi Anand](https://iiitd.ac.in/ravianand)  & covert data transmission in networked environments [Dr. Sambuddho Chakravarty](https://www.iiitd.ac.in/sambuddho)
   - **Adversarial Attacks on Multimodal Systems**: Researching robustness and vulnerabilities(University of South Carolina) in AI systems under the guidance of [Dr. Amitava Das](https://amitavadas.info/)  
 - **Building**: Secure systems, ciphers, tooling & optimization algorithms  
 
