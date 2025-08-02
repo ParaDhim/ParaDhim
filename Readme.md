@@ -39,4 +39,4 @@ I'm a recent B.Tech graduate in Computer Science and Biosciences from IIIT Delhi
 ## 🌐 Let's Connect:
 [🔗 GitHub](https://github.com/ParaDhim)  
 [💼 LinkedIn](https://linkedin.com/in/parasdhiman1)  
-📧 parasdhiman3002@gmail.com
+[📧 Mail] (parasdhiman3002@gmail.com)
